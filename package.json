@@ -1,0 +1,19 @@
+{
+  "name": "selectordie",
+  "version": "0.1.8",
+  "description": "Yet another jQuery plugin to style select elements. (forked from vestman/Select-or-Die)",
+  "main": "_src/selectordie.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsuyoshiwada/Select-or-Die.git"
+  },
+  "author": "tsuyoshiwada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tsuyoshiwada/Select-or-Die/issues"
+  },
+  "homepage": "https://github.com/tsuyoshiwada/Select-or-Die#readme"
+}
